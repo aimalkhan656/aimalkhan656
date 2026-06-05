@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m a software engineering student with good cgpa<br>👯 I’m currently looking for internship and gain hands-on experience in software industry <br>🌱 i'm currently learning HTML5, CSS3, JAVASCRIPT, NEXTjs<br>💬 Ask me about my cv and resume<br>
-
+👋 Greetings, I am Aimal Mazhar <br> 🔭 I’m a software engineering student with good cgpa<br>👯 I’m currently looking for internship and gain hands-on experience in software industry <br>🌱 i'm currently learning HTML5, CSS3, JAVASCRIPT, NEXTjs<br>💬 Ask me about my cv and resume<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
