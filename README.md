@@ -2,7 +2,8 @@
 👋 Greetings, I am Aimal Mazhar <br> 🔭 I’m a software engineering student with good cgpa<br>👯 I’m currently looking for internship and gain hands-on experience in software industry <br>🌱 i'm currently learning HTML5, CSS3, JAVASCRIPT, NEXTjs<br>💬 Ask me about my cv and resume<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]("www.linkedin.com/in/aimal-mazhar-7768a0319")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+"www.linkedin.com/in/aimal-mazhar-7768a0319"
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aimalmazhar526@gmail.com) 
 
 # 💻 Tech Stack:
